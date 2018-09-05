@@ -1,0 +1,14 @@
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\ShapeChecker.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\ShapeChecker.pdb
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\AForge.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Imaging.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Math.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\AForge.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Imaging.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\bin\Debug\AForge.Math.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.MainForm.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.Properties.Resources.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.AboutForm.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.csproj.GenerateResource.Cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\ShapeChecker\obj\Debug\ShapeChecker.pdb

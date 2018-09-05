@@ -1,0 +1,13 @@
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\IPPrototyper.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\IPPrototyper Sample.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\IPPrototyper Sample.pdb
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\AForge.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\AForge.Imaging.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\AForge.Imaging.IPPrototyper.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\AForge.Math.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\AForge.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\AForge.Imaging.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\bin\Debug\AForge.Math.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\obj\Debug\IPPrototyper Sample.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\obj\Debug\IPPrototyper Sample.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\IPPrototyper Sample\obj\Debug\IPPrototyper Sample.pdb

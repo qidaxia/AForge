@@ -1,0 +1,14 @@
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\TexturesDemo.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\TexturesDemo.pdb
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\AForge.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\AForge.Imaging.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\AForge.Math.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\AForge.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\AForge.Imaging.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\bin\Debug\AForge.Math.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\obj\Debug\TexturesDemo.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\obj\Debug\TexturesDemo.MainForm.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\obj\Debug\TexturesDemo.Properties.Resources.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\obj\Debug\TexturesDemo.csproj.GenerateResource.Cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\obj\Debug\TexturesDemo.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\TexturesDemo\obj\Debug\TexturesDemo.pdb

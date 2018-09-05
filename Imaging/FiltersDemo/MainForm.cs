@@ -1115,29 +1115,23 @@ namespace FiltersDemo
         // On Filters->BT709
         private void BT709Item_Click(object sender, EventArgs e)
         {
-            Bitmap originalImage = sourceImage;
+            ClearCurrentImage();
             ApplyFilter(Grayscale.CommonAlgorithms.BT709);
-            sourceImage.Dispose();
-            sourceImage = originalImage;
             BT709Item.Checked = true;
         }
         // On Filters->R-Y
         private void RYItem_Click(object sender, EventArgs e)
         {
-            Bitmap originalImage = sourceImage;
+            ClearCurrentImage();
             ApplyFilter(Grayscale.CommonAlgorithms.RMY);
-            sourceImage.Dispose();
-            sourceImage = originalImage;
-            BT709Item.Checked = true;
+            RYItem.Checked = true;
         }
         // On Filters->Y
         private void YItem_Click(object sender, EventArgs e)
         {
-            Bitmap originalImage = sourceImage;
+            ClearCurrentImage();
             ApplyFilter(Grayscale.CommonAlgorithms.Y);
-            sourceImage.Dispose();
-            sourceImage = originalImage;
-            BT709Item.Checked = true;
+            YItem.Checked = true;
         }
     }
 }

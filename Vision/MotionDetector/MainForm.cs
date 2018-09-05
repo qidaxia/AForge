@@ -2,7 +2,7 @@
 // AForge.NET Framework
 // http://www.aforgenet.com/framework/
 //
-// Copyright © AForge.NET, 2006-2012
+// Copyright ?AForge.NET, 2006-2012
 // contacts@aforgenet.com
 //
 

@@ -1,0 +1,13 @@
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\HoughTransformation.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\HoughTransformation.pdb
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\AForge.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\AForge.Imaging.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\AForge.Math.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\AForge.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\AForge.Imaging.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\bin\Debug\AForge.Math.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\obj\Debug\HoughTransform.MainForm.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\obj\Debug\HoughTransform.Properties.Resources.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\obj\Debug\HoughTransformation.csproj.GenerateResource.Cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\obj\Debug\HoughTransformation.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\HoughTransformation\obj\Debug\HoughTransformation.pdb
