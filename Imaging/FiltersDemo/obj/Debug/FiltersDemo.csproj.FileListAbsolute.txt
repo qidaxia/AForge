@@ -1,0 +1,13 @@
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\FiltersDemo.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\FiltersDemo.pdb
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\AForge.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Imaging.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Math.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\AForge.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Imaging.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\bin\Debug\AForge.Math.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.MainForm.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.csproj.GenerateResource.Cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\FiltersDemo\obj\Debug\FiltersDemo.pdb

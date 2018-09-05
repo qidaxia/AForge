@@ -1,0 +1,16 @@
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\BlobsExplorer.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\BlobsExplorer.pdb
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Imaging.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Math.dll
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Imaging.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\bin\Debug\AForge.Math.xml
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.BlobsBrowser.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.MainForm.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.Properties.Resources.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.AboutForm.resources
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.csproj.GenerateResource.Cache
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.exe
+F:\BaiduYunDownload\AForge.NET Framework-2.2.5\Samples\Imaging\BlobsExplorer\obj\Debug\BlobsExplorer.pdb
